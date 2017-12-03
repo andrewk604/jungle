@@ -1,9 +1,9 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page1.html",
+    "currentPage": "jungleway.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 33,
+    "uniqCompNum": 37,
     "versionPublish": "4.5.2",
     "theme": {
       "additionalSetColors": [
@@ -862,9 +862,9 @@
         }
       ]
     },
-    "page1.html": {
+    "jungleway.html": {
       "settings": {
-        "meta_descr": "Web Page Creator Description",
+        "meta_descr": "Сайт команды",
         "title": "Jungle Way",
         "order": 1
       },
@@ -968,8 +968,8 @@
             "showButtons": true,
             "showArrow": true,
             "contentAlign": "right",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/52e285483ea9a3cc3c6b2db04f7e5b7beba161cd-full-1-184x184.jpg",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/52e285483ea9a3cc3c6b2db04f7e5b7beba161cd_full-1-184x184.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#930d0d",
